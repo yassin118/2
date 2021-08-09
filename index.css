@@ -1,0 +1,43 @@
+li {
+    display: inline;
+  }
+  .P1 {
+    font-size: 1rem;
+  }
+  
+  h1 {    
+    color: green;
+    text-shadow: 2px 2px 5px brown;
+    font-family: "roboto";
+
+  }
+  .P2 {
+      color : blue ;
+
+  }
+  .p3
+{
+    margin-top: 50px;
+}
+article~li {
+  width: 100 px;
+} 
+#a {
+  margin-right: 100px;
+  margin-left: 300px;
+   
+}
+
+
+#b {
+  margin-right: 100px;
+}
+#c {
+  margin-right: 100px;
+}
+#d {
+  margin-right: 100px;
+}
+#e {
+  margin-right: 100px;
+}
